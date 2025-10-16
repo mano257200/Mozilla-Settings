@@ -24,4 +24,4 @@ The server hosting the specified endpoints, including the base API URL, responds
 ```http
 Access-Control-Allow-Origin: *
 
-<img width="327" height="203" alt="image" src="https://github.com/user-attachments/assets/22296cb1-7fa8-4262-aaae-26dddb8235d4" />
+<img width="327" height="203" alt="image" src="https://github.com/mano257200/Mozilla-Settings/blob/main/cros.png?raw=true" />
