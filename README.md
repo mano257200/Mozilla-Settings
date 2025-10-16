@@ -24,4 +24,4 @@ The server hosting the specified endpoints, including the base API URL, responds
 ```http
 Access-Control-Allow-Origin: *
 
-<imgsrc="https://github.com/mano257200/Mozilla-Settings/blob/main/cros.png?raw=true" />
+![CORS Misconfiguration Screenshot](https://github.com/mano257200/Mozilla-Settings/blob/main/cros.png?raw=true)
